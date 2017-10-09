@@ -1,5 +1,15 @@
 # Maze
 A virtual reality game where the user navigates an auto-generated maze. 
+Playable game is the barebones maze. 
+
+The Viveport ready release is almost finished, but not all here yet. (A bunch of the files are only at the lab with the Vive)
+Finished:
+Movement is now in whatever direction you are facing. (Yay, trig)
+The scene is now a laboratory (Think lab rat, but human)
+In the works:
+A tutorial scene, in the cage
+Sound effects
+
 
 Download the zip file in the release to be able to play the game.
 Currently only works with HTC Vive. Viveport release in the works.
