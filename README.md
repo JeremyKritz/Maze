@@ -4,10 +4,10 @@ Playable game is the barebones maze.
 
 The Viveport ready release is almost finished, but not all here yet. (A bunch of the files are only at the lab with the Vive)
 Finished:
-Movement is now in whatever direction you are facing. (Yay, trig)
+Movement is now in whatever direction you are facing. (Yay, trig), 
 The scene is now a laboratory (Think lab rat, but human)
 In the works:
-A tutorial scene, in the cage
+A tutorial scene, 
 Sound effects
 
 
